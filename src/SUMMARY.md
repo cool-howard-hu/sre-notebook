@@ -11,6 +11,7 @@
 - [Tracing](observability/tracing/README.md)
 
 # Kubernetes
+- [Logging](observability/logging/README.md)
 
 # Troubleshooting
 - [Essential Linux](troubleshooting/linux/README.md)
