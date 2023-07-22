@@ -10,7 +10,7 @@
 - [Logging](observability/logging/README.md)
 - [Tracing](observability/tracing/README.md)
 
-# Kubernates
+# Kubernetes
 
 # Troubleshooting
 - [Essential Linux](troubleshooting/linux/README.md)
