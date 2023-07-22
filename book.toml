@@ -9,4 +9,4 @@ title = "SRE Notebook"
 [output.html]
 mathjax-support = true
 git-repository-url = "https://github.com/cool-howard-hu/sre-notebook/tree/main"
-edit-url-template = "https://github.com/cool-howard-hu/sre-notebook/tree/main{path}"
+edit-url-template = "https://github.com/cool-howard-hu/sre-notebook/tree/main/{path}"
